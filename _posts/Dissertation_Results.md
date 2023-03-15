@@ -7,6 +7,6 @@ Within this Master's project, a 2D Kinetic Theory of Gas Model was developed in 
 
 ### Animation of 2D Gas model alongside evolving energy distribution
 
-<img src="/2D_Gas_animation.gif" alt="GIF of 2D Gas">
+<!-- <img src="/2D_Gas_animation.gif" alt="GIF of 2D Gas"> -->
 
 (Insert Figure Here)
