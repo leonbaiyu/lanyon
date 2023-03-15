@@ -9,4 +9,4 @@ Within this Master's project, a 2D Kinetic Theory of Gas Model was developed in 
 
 <img src="/2D_Gas_animation.gif" alt="GIF of 2D Gas">
 
-(Insert Figure Here)
+(LHS) Animation visualising movement of particles within 2D Kinetic Theory of Gases Model. Particles have colour based on their energies. (RHS) Parallel GIF of velocity distribution of particles synchronised to the visualisation in the left figure. Depicts relaxation from initially equal velocity of all agents to a Maxwell-Boltzmann distribution, indicated by the distribution in orange. Note that the MB distribution was fitted to an averaged final velocity distribution.
