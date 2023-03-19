@@ -5,7 +5,7 @@ title: 2D Kinetic Theory of Gases Model
 
 A 2D Kinetic Theory of Gases Model was developed in Python, in particular, using the Mesa agent-based modelling package. Some results of this model were visualised and can be seen below:
 
-### Animation of 2D Gas model alongside evolving energy distribution
+### 2D Gas model animation with energy distribution
 
 The below animation was created using matplotlib.
 
